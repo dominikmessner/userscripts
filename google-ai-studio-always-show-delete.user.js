@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Google AI Studio — Always Show Delete
 // @namespace    local.codex
-// @version      1.1.0
+// @version      1.1.1
 // @description  Replaces response feedback buttons with a persistent Delete button and adds one to every chat turn.
 // @match        https://aistudio.google.com/*
+// @updateURL    https://raw.githubusercontent.com/dominikmessner/userscripts/main/google-ai-studio-always-show-delete.user.js
+// @downloadURL  https://raw.githubusercontent.com/dominikmessner/userscripts/main/google-ai-studio-always-show-delete.user.js
 // @run-at       document-idle
 // @grant        none
 // ==/UserScript==
